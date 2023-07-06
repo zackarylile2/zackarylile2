@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zackarylile2
-- 👀 I’m interested in software/web development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Go/NodeJS.
 
 <!---
