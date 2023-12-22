@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackarylile2
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Golang and NodeJS.
+- 🌱 I’m currently learning Golang and NodeJS/TypeScript.
 
 <!---
 zackarylile2/zackarylile2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
